@@ -25,7 +25,7 @@
 
 - ⚡ Fun fact **I I can also create a website using WordPress**
 
-<h3 align="center">Connect with me:</h3>
+<h3 align="center">Languages and Tools:</h3>
 
 <div align="center">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" height="40" alt="html5 logo"  />
