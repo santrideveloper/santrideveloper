@@ -16,7 +16,7 @@
 
 - 🌱 I’m currently learning **Framework, Library, Wordpress**
 
-- 📝 I regularly write articles on [https://santrideveloper.rf.gd](https://santrideveloper.rf.gd)
+- 📝 I regularly write articles on [https://santrideveloper.rf.gd](santrideveloper.rf.gd)
 
 - 💬 Ask me about **Html, Css, Javascript, Tailwind**
 
