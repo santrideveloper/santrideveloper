@@ -1,10 +1,6 @@
 <h1 align="center">Hi 👋, I'm Alvin Jauhari</h1>
 <h3 align="center">A passionate frontend developer from Indonesia</h3>
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=santrideveloper&label=Profile%20views&color=0e75b6&style=flat" alt="santrideveloper" /> </p>
-
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=santrideveloper" alt="santrideveloper" /></a> </p>
-
 - 🌱 I’m currently learning **Framework, Library, Wordpress**
 
 - 📝 I regularly write articles on [santrideveloper.rf.gd](santrideveloper.rf.gd)
