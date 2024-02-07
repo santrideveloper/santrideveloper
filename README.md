@@ -2,7 +2,7 @@
 <h3 align="center">A passionate frontend developer from Indonesia</h3>
 
  # 💫 About Me:
-- 🌱 I’m currently learning **Framework, Library, Wordpress**<br><br>- 📝 I regularly write articles on [santrideveloper.rf.gd](santrideveloper.rf.gd)<br><br>- 💬 Ask me about **Html, Css, Javascript, Tailwind**<br><br>- 📫 How to reach me **santrideveloper@outlook.com**<br><br>- ⚡ Fun fact **I I can also create a website using WordPress**
+- 🌱 I’m currently learning **Framework, Library, Wordpress**<br><br>- 📝 I regularly write articles on [https://santrideveloper.rf.gd](santrideveloper.rf.gd)<br><br>- 💬 Ask me about **Html, Css, Javascript, Tailwind**<br><br>- 📫 How to reach me **santrideveloper@outlook.com**<br><br>- ⚡ Fun fact **I I can also create a website using WordPress**
 
 
 ## 🌐 Socials:
