@@ -38,10 +38,3 @@
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/tailwindcss/tailwindcss-original-wordmark.svg" height="40" alt="tailwindcss logo"  />
 </div>
 
-###
-
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=santrideveloper&show_icons=true&locale=en&layout=compact" alt="santrideveloper" /></p>
-
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=santrideveloper&show_icons=true&locale=en" alt="santrideveloper" /></p>
-
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=santrideveloper&" alt="santrideveloper" /></p>
